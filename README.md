@@ -1,4 +1,4 @@
-# 📦 Vendor Invoice Intelligence Portal
+# 📦 Vendor Invoice Intelligence System
 
 An AI-powered internal analytics portal that leverages machine learning to predict freight costs and flag invoices for manual approval — reducing financial leakage and streamlining finance operations.
 
@@ -139,5 +139,5 @@ An invoice is labeled as **high risk (flag = 1)** if:
 
 ## 👤 Author
 
-**Your Name**  
+**AHMED MALLICK**  
 BS Computer Science
